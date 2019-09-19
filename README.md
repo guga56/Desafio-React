@@ -57,3 +57,10 @@ Na página de listagem de usuários, os botões **editar** e **deletar** devem f
 e uma estrutura que faça sentido;
 - Ao terminar, edite este arquivo e adicione as diretrizes para iniciar o projeto, podendo estar acima ou abaixo do conteúdo 
 deste **ReadMe**.
+
+cria o  processoSeletivoFullab
+cria um diretorio 
+colocando os pacotes e as dependencias
+entra na pasta 
+yarn start.cmd
+abre o navegador
